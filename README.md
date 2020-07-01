@@ -4,3 +4,7 @@
 #mh.py is the source code
 # Pokemon Classification
 Failed attempt - uses vgg architecture, not enough data
+# Cats vs Dogs Classification
+Works GOOD! 93% Acc
+# Rock Papers Scissors Classification
+Needs more Data
